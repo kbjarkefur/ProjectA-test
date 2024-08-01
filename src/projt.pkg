@@ -1,0 +1,33 @@
+* This package file is generated in the adodown workflow.
+* Do not edit manually - instead, use the command ad_update in the adodown package
+*** version
+v 0.0
+*** title
+d 'PROJT': 
+*** description
+d My great package
+d
+*** stata
+d Requires: Stata version 0.0
+d
+*** author
+d Author: Kristoffer Bjarkefur
+*** contact
+d Contact: kbjarkefur@worldbank.org
+*** url
+d URL: 
+d
+*** date
+d Distribution-Date: 20240801
+*** adofiles
+f ado/mycommand.ado
+f ado/projt.ado
+
+*** helpfiles
+f sthlp/mycommand.sthlp
+f sthlp/projt.sthlp
+
+*** ancillaryfiles
+
+*** end
+e
